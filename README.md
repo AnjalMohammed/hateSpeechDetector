@@ -9,7 +9,7 @@ This repository contains a simple and interactive web application that detects t
 - 🧪 Suitable for demonstrations, experiments, or classroom projects
 
 
-### 🌐 Access the app here : 
+### 🌐 Access the app here : ` https://hatespeechdetector-eai6010.streamlit.app/ `
 
 ### 📦 Installation
 ```
